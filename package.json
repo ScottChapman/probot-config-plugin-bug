@@ -1,0 +1,12 @@
+{
+  "name": "probot-config-plugin-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ScottChapman/probot-config-plugin-bug.git",
+  "author": "Scott Chapman <scottchapman@us.ibm.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^18.5.3",
+    "@probot/octokit-plugin-config": "^1.0.5"
+  }
+}
