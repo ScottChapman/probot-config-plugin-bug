@@ -1,0 +1,1 @@
+# probot-config-plugin-bug
