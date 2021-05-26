@@ -6,6 +6,8 @@
   "author": "Scott Chapman <scottchapman@us.ibm.com>",
   "license": "MIT",
   "dependencies": {
+    "@octokit/plugin-retry": "^3.0.7",
+    "@octokit/plugin-throttling": "^3.4.1",
     "@octokit/rest": "^18.5.3",
     "@probot/octokit-plugin-config": "^1.0.5"
   }
