@@ -1,0 +1,5 @@
+teams:
+    CICD Test:
+        org: sc-cicd-test
+        repoPattern: .*
+        securityReviewer: security-reviewers
